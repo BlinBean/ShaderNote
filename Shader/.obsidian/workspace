@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "f28646cfefb4c4ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b58ec36d323758e",
+        "type": "leaf",
+        "dimension": 51.089743589743584,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "光照/BlinnPhong光照.md",
+            "mode": "source"
+          }
+        },
+        "group": "b9d3d454845f6c0f"
+      },
+      {
+        "id": "c1b8c4f28c69e2c8",
+        "type": "leaf",
+        "dimension": 48.91025641025641,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "光照/BlinnPhong光照.md",
+            "mode": "preview"
+          }
+        },
+        "group": "b9d3d454845f6c0f"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7dc792ed30285aba",
+    "type": "split",
+    "children": [
+      {
+        "id": "f53ebd0f75f1b8f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4593be5e31b79ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0331369e08e2ba3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1715bb0d410b7c30",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d239419fd8efd4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb577a732890d61c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "光照/BlinnPhong光照.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "光照/BlinnPhong光照.md",
+    "杂/顶点和片段.md",
+    "杂/渲染路径.md",
+    "光照/phong光照.md",
+    "光照/img/反射计算.png"
+  ]
+}
